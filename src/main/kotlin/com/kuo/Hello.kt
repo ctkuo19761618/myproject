@@ -6,6 +6,8 @@ fun main() {
 //    Human().hello()
     val h=Human()
         h.hello()
+    var a : String
+
 }
 
 
